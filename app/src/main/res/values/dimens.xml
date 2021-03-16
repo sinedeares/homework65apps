@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="avatar_on_details_width">100dp</dimen>
+    <dimen name="avatar_on_details_height">100dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="margin_24dp">24dp</dimen>
+    <dimen name="margin_32dp">32dp</dimen>
+    <dimen name="margin_84dp">84dp</dimen>
+    <dimen name="margin_12dp">12dp</dimen>
+    <dimen name="text_view_width">0dp</dimen>
+    <dimen name="avatar_on_list_width">60dp</dimen>
+    <dimen name="avatar_on_list_height">60dp</dimen>
+    
+</resources>
